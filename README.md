@@ -53,4 +53,4 @@ To run this project locally:
 ## 🌍 Live Demo
 
 🔗 View the live project here:
-[![Live Demo](https://khattab-o8.github.io/bootstrap-landing-page/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Site-brightgreen?style=for-the-badge)](https://khattab-o8.github.io/bootstrap-landing-page/)
