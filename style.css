@@ -1,0 +1,12 @@
+/** <div style="height: 60px;"></div> (fake element) */
+body::before {
+  display: block;
+  content: '';
+  height: 60px;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
